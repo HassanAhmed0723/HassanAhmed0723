@@ -1,4 +1,4 @@
-## About Me
+## About Me:
 
 <!--
 **HassanAhmed0723/HassanAhmed0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ I'm Hassan Ahmed, a Tech enthusiast and a CS Graduate with strong foundation in 
 Programming, Data Structures, and Algorithms. Skilled in Software Engineering, Artificial Intelligence and its subdomains
 such as Machine Learning, Deep Learning and Natural Language Processing.. 
 
-## Skill Stack
+## Skill Stack:
 
 <p align="left">
  <a href="#">
@@ -44,7 +44,7 @@ such as Machine Learning, Deep Learning and Natural Language Processing..
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## Stats
+## Github Stats:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed0723&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
