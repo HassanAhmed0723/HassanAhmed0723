@@ -48,5 +48,9 @@ such as Machine Learning, Deep Learning and Natural Language Processing..
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HassanAhmed0723&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed0723&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
+    <!--
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed0723&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4">
+    -->
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed0723&layout=compact&&langs_count=8"/>
+</div>
 </p>
